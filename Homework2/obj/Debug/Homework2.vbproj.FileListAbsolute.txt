@@ -1,0 +1,12 @@
+C:\Users\Michael\source\repos\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Michael\source\repos\Homework2\Homework2\bin\Debug\Homework2.exe
+C:\Users\Michael\source\repos\Homework2\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Michael\source\repos\Homework2\Homework2\bin\Debug\Homework2.xml
+C:\Users\Michael\source\repos\Homework2\Homework2\obj\Debug\Homework2.vbproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\Homework2\Homework2\obj\Debug\Homework2.Homework2.resources
+C:\Users\Michael\source\repos\Homework2\Homework2\obj\Debug\Homework2.Resources.resources
+C:\Users\Michael\source\repos\Homework2\Homework2\obj\Debug\Homework2.vbproj.GenerateResource.cache
+C:\Users\Michael\source\repos\Homework2\Homework2\obj\Debug\Homework2.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\Michael\source\repos\Homework2\Homework2\obj\Debug\Homework2.xml
+C:\Users\Michael\source\repos\Homework2\Homework2\obj\Debug\Homework2.pdb
